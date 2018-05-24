@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PartThree
+comment1.params=st\ av\ dir\ numBeepers
+comment1.target=PartThree(int,\ int,\ Direction,\ int)
+numComments=2

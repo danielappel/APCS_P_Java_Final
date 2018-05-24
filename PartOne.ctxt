@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PartOne
+comment1.params=st\ av\ dir\ numBeepers
+comment1.target=PartOne(int,\ int,\ Direction,\ int)
+comment2.params=
+comment2.target=void\ buildHouse()
+numComments=3
